@@ -1,8 +1,4 @@
-package com.example.TanksAndWeapons;
-
-import com.example.CombatResult;
-import com.example.Module;
-import com.example.ENUMS.AmmoType;
+package com.example;
 
 public class Sniper extends Module {
 
@@ -110,3 +106,4 @@ public class Sniper extends Module {
     }
     
 }
+
