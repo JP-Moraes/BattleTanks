@@ -1,4 +1,4 @@
-package com.example.ENUMS;
+package com.example;
 
 public enum TankStatus {
     ACTIVE,
@@ -6,3 +6,4 @@ public enum TankStatus {
     UNDER_REPAIR
     
 }
+
