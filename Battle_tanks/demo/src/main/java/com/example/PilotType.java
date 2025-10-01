@@ -1,8 +1,9 @@
-package com.example.ENUMS;
+package com.example;
 
 public enum PilotType {
     HUMAN,
     AI
 }
     
+
 
