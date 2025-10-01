@@ -1,7 +1,8 @@
-package com.example.ENUMS;
+package com.example;
 
 public enum TankClass {
     LIGHT, 
     MEDIUM,
     HEAVY
 }
+
