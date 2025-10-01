@@ -1,7 +1,4 @@
-package com.example.TanksAndWeapons;
-
-import com.example.Module;
-import com.example.ENUMS.AmmoType;
+package com.example;
 
 public class RocketLauncher extends Module{
 
@@ -71,3 +68,4 @@ public class RocketLauncher extends Module{
     }
     
 }
+
