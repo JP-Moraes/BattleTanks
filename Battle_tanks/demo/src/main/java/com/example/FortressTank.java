@@ -1,9 +1,4 @@
-package com.example.TanksAndWeapons;
-
-import com.example.Module;
-import com.example.Tank;
-import com.example.ENUMS.PilotType;
-import com.example.ENUMS.TankClass;
+package com.example;
 
 public class FortressTank extends Tank {
 
@@ -30,3 +25,4 @@ public class FortressTank extends Tank {
     }
     
 }
+
