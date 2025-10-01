@@ -1,4 +1,4 @@
-package com.example.ENUMS;
+package com.example;
 
 public enum AmmoType {
     PIERCING(1.5), // Bonus de 50% de dano
@@ -16,3 +16,4 @@ public enum AmmoType {
     }
 
 }
+
