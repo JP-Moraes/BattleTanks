@@ -1,7 +1,5 @@
 package com.example;
 
-import com.example.ENUMS.AmmoType;
-
 public abstract class Module {
 
     private AmmoType ammoType;
@@ -266,3 +264,4 @@ public abstract class Module {
     }
 
 }
+
