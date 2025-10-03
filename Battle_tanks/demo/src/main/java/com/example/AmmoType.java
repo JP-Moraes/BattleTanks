@@ -7,7 +7,7 @@ public enum AmmoType {
 
     private final double ammoBonus;
 
-    AmmoType(double ammoBonus) {
+    public AmmoType(double ammoBonus) {
         this.ammoBonus = ammoBonus;
     }
 
@@ -16,4 +16,5 @@ public enum AmmoType {
     }
 
 }
+
 
